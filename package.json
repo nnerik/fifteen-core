@@ -1,0 +1,22 @@
+{
+  "name": "fifteen-core",
+  "version": "0.1.0",
+  "description": "A 15-puzzle and generic (m*n-1)-puzzle library",
+  "main": "fifteen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnerik/fifteen-core.git"
+  },
+  "author": "Erik Haugan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nnerik/fifteen-core/issues"
+  },
+  "homepage": "https://github.com/nnerik/fifteen-core#readme"
+}
